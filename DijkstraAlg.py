@@ -80,3 +80,4 @@ ourGraph.graph = [[0,  8,  9,  4,  0,  0,  0,  0,  0], #0 C
                   ]; 
    
 ourGraph.dijkstra(0)
+print("me llamo ernesto ")
